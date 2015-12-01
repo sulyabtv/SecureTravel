@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SecureTravel</string>
+    <string name="action_about">About</string>
+    <string name="welcome_head">Welcome to SecureTravel</string>
+    <string name="welcome_body">First select a contact with whom you would like to share your location in case of emergency.</string>
+    <string name="choose_contacts">Choose Contact</string>
+    <string name="app_title_with_version">SecureTravel v1.0</string>
+    <string name="app_made_by">Made by Sulyab, Abdullah, Geetha</string>
+    <string name="app_description">SecureTravel lets you easily share your location during potentially dangerous circumstances.
+    \n\nYou are required to select one of your contacts as the contact to whom the distress message is to be sent. You can change this contact at any time.
+    \n\nTo send a distress message, click on \'Send location as SMS\' button and choose one of the two modes - Single SMS mode or Continuous Location Update. In Continuous Location Update mode, an SMS with your latest location will be sent every minute until you choose to stop.
+    \n\nOnce location is received by SecureTravel, the map is set. It is recommended to send the location after the map is set, as your location will be included as a Google Maps link in the SMS. If location could not be determined, only a distress message is sent, without the link.
+    \n\nIf your chosen contact has SecureTravel installed in their device, a distress alarm is played upon receiving a distress message. This applies even for the SMS without location data.
+    \n\nFor correspondence, write to sulyabtv@gmail.com</string>
+    <string name="confirm_contact">Confirm Contact</string>
+    <string name="choose_another_contact">Choose another contact</string>
+    <string name="change_emergency_contact">Change emergency contact</string>
+    <string name="contact_confirm_message_1">You have chosen the following emergency contact :</string>
+    <string name="send_location"> Send Location as SMS </string>
+    <string name="send_single_update"> Single Location SMS </string>
+    <string name="send_continuous_update"> Continuous Location Update </string>
+    <string name="back">Back</string>
+    <string name="title_activity_confirm_contact">confirm_contact</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
