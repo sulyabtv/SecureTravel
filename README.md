@@ -21,6 +21,7 @@ An Android app to easily share your location via SMS in case of emergency
 
 ###TODO list
 - Secret trigger (such as pressing the power button twice) to send SMS without navigating to the app
+- Option to change interval between two SMS in Continuous Location Update mode
 - Longer distress alarm
 - (If the idea seems fit) Extend the feature to allow casual location sharing, i.e without distress message and the alarm wailing
 - Battery consumption considerations
